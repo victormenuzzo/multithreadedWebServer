@@ -2,17 +2,17 @@
 
 Made by Victor Antonio Menuzzo and Paula Giovanna Rodrigues
 
-###Run the WebServer:
+### Run the WebServer:
 ```
 ~$make
 ```
 
-###Test Web Browser:
+### Test Web Browser:
 ```
 http://IP:PORT/ARQUIVE
 ```
 
-###Onde:
+### Onde:
 
 IP - COMPUTER IP 
 ```
@@ -25,7 +25,7 @@ PORT - PRE-ESTABLISHED PORT (int port)
 ARQUIVE - (gatinho.gif ou pantera.jpg)
 
 
-###To show the HTTP answer: 
+### To show the HTTP answer: 
 ```
 ~$ curl -I http://IP:PORT/ARQUIVE
 ```
