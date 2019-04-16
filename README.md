@@ -16,7 +16,7 @@ http://IP:PORT/ARQUIVE
 
 IP - COMPUTER IP 
 ```
-linux: ~$ ip addr)
+linux: ~$ ip addr
 ```
 
 PORT - PRE-ESTABLISHED PORT (int port)
